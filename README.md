@@ -1,2 +1,2 @@
 # Go-Game
-Two player Go game
+Two players Go game
